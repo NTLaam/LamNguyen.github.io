@@ -3,5 +3,5 @@
 ### Summary
 
 My resume I made using plain HTML5 & CSS.
-https://rjbasitali.github.io/
+[https://rjbasitali.github.io/](https://ntlaam.github.io/LamNguyen.github.io/)
 
